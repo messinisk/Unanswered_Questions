@@ -1,0 +1,23 @@
+work:
+  work_id: unanswered-questions
+  title: "Αναπάντητα Ερωτήματα"
+  language: el-GR
+  version: "1.0"
+
+artifacts:
+  epub:
+    path: "el/outputs/epub/Unanswered_Questions_EL.epub"
+    uuid: "urn:uuid:1f9bc3b3-bd45-45c6-a5d7-3c4ac79adaa4"
+    epub_manifest: "el/metadata/epub_manifest.yml"
+  pdf:
+    path: "el/outputs/pdf/Unanswered_Questions_EL.pdf"
+    uuid: "urn:uuid:c30912cb-0e2e-4f47-8708-69341a9a475e"
+    pdf_manifest: "el/metadata/pdf_manifest.yml"
+  audio:
+    manifest: "el/metadata/audiobook_manifest.yml"
+    uuid: "urn:uuid:55f1390c-5018-4b58-a94d-f75bdd3d8333"
+    audio_manifest: "el/metadata/audiobook_manifest.yml"
+
+  
+  
+  

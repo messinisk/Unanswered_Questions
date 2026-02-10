@@ -1,0 +1,47 @@
+format: epub
+spec: "EPUB 3"
+language: "el-GR"
+
+work:
+  work_id: "unanswered-questions"
+  title: "Αναπάντητα Ερωτήματα"
+  subtitle: "Όρια γνώσης, επιστήμης και ανθρώπινης πορείας στον σύγχρονο κόσμο"
+  creator: "Kostas Messinis"
+  description: >
+    Σύντομη περιγραφή του βιβλίου (2–5 προτάσεις).
+  canonical: "https://github.com/messinisk/Unanswered_Questions"
+  license: "CC BY-NC-ND 4.0"   # άλλαξε το αν χρειάζεται
+
+edition:
+  version: "1.0"
+  release_date: "2026-02-10"   # YYYY-MM-DD
+  uuid: "urn:uuid:1f9bc3b3-bd45-45c6-a5d7-3c4ac79adaa4"
+  source_text: "../Unanswered_Questions.md"
+
+files:
+  epub_path: "../outputs/epub/Unanswered_Questions_EL.epub"
+  cover_image: "../images/image.png"   # ή null αν δεν έχεις
+  nav: "auto"                          # "auto" ή "custom"
+  toc_strategy: "headings"             # headings | custom
+
+accessibility:
+  conforms_to: []                      # π.χ. ["WCAG2.1-AA"] αν θες να το δηλώσεις (προαιρετικό)
+  access_modes: ["textual"]
+  access_features:
+    - "tableOfContents"
+    - "structuralNavigation"
+  hazards: ["none"]
+
+identifiers:
+  # Βοηθάει να έχεις ένα "Work ID" κοινό για όλα τα formats + format-specific UUID
+  work_id: "unanswered-questions"
+  epub_uuid: "urn:uuid:1f9bc3b3-bd45-45c6-a5d7-3c4ac79adaa4"
+
+relationships:
+  related_formats:
+    pdf_manifest: "./pdf_manifest.yml"
+    audio_manifest: "./audiobook_manifest.yml"
+
+checks:
+  validate_epubcheck: false    # true αν θα τρέχεις epubcheck
+  notes: ""
