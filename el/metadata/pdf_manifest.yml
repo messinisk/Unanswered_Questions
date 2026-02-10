@@ -13,7 +13,7 @@ work:
 edition:
   version: "1.0"
   release_date: "2026-02-10"
-  uuid: "urn:uuid:c30912cb-0e2e-4f47-8708-69341a9a475e"
+  uuid: "urn:uuid:1f9bc3b3-bd45-45c6-a5d7-3c4ac79adaa4"
   source_text: "../Unanswered_Questions.md"
   source_odt: null   # βάλε path αν έχεις ODT π.χ. "../sources/Unanswered_Questions_EL.odt"
 
@@ -29,7 +29,7 @@ pdf_metadata:
   visible_colophon: true
   colophon_text: |
     Work-ID: unanswered-questions
-    PDF-UUID: urn:uuid:c30912cb-0e2e-4f47-8708-69341a9a475e
+    PDF-UUID: urn:uuid:1f9bc3b3-bd45-45c6-a5d7-3c4ac79adaa4
     Edition: EL v1.0
     Source: https://github.com/messinisk/Unanswered_Questions
     License: "CC BY-NC-ND 4.0"
@@ -44,7 +44,7 @@ accessibility:
 
 identifiers:
   work_id: "unanswered-questions"
-  pdf_uuid: "urn:uuid:c30912cb-0e2e-4f47-8708-69341a9a475e"
+  pdf_uuid: "urn:uuid:1f9bc3b3-bd45-45c6-a5d7-3c4ac79adaa4"
 
 relationships:
   related_formats:
