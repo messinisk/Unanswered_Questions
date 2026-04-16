@@ -2,27 +2,16 @@
 ## Όρια γνώσης, επιστήμης και ανθρώπινης πορείας στον σύγχρονο κόσμο
 
 Ένα συνεκτικό δοκίμιο/βιβλίο που χαρτογραφεί τα «σκληρά» όρια της γνώσης, τις ανοιχτές επιστημονικές ερωτήσεις και τις φιλοσοφικές/κοινωνικές συνέπειες τους. Στόχος είναι να συνδέσει **επιστήμη → ερμηνεία → πολιτισμό → αποφάσεις**, χωρίς εύκολους δογματισμούς.
-
 ---
 
-## Τι είναι αυτό το repo
-Το αποθετήριο περιέχει:
-- το κύριο κείμενο σε **Markdown** (πηγή),
-- υλικά έκδοσης για **PDF / EPUB** (και προαιρετικά HTML),
-- σημειώσεις, βιβλιογραφία και δομή κεφαλαίων,
-- (προαιρετικά) παραγωγή **Audiobook (TTS)**.
+EL:  pdf,  video
+En: pdf,  video
+================================================
+# **Unanswered Questions**  
+## **The Limits of Knowledge, Science, and the Human Trajectory in the Contemporary World**
 
-> Προτεραιότητα: καθαρή δομή, αναγνωσιμότητα, παραπομπές, και δυνατότητα επαναληπτικών εκδόσεων (versioning).
-
+A coherent essay/book that maps the “hard” limits of knowledge, the open scientific questions, and their philosophical and social implications. Its aim is to connect **science → interpretation → culture → decisions**, without resorting to easy dogmatisms.
 ---
+EL:  [pdf](el/unanswered-questions_el.pdf),   [video](https://youtu.be/6_pr7qp9JcQ)
 
-## Θεματικές ενότητες (ενδεικτικά)
-- Όρια επιστημονικής εξήγησης (μεθοδολογία, επαληθευσιμότητα, μοντέλα vs πραγματικότητα)
-- Ανοιχτά προβλήματα: φυσική, βιολογία, συνείδηση, υπολογισμός, κοινωνικά συστήματα
-- Πληροφορία, αβεβαιότητα και «γνώση υπό πίεση» στον σύγχρονο κόσμο
-- Ηθικές/πολιτικές συνέπειες της επιστήμης και της τεχνολογίας
-- Πλαίσιο για κριτική σκέψη: τι σημαίνει “γνωρίζω” σήμερα;
-
----
-
-## Δομή φακέλων (πρόταση)
+En: [pdf](en/unanswered-questions_en.pdf),  [video](https://www.youtube.com/watch?v=lsdRD2qtJTM)
